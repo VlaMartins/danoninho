@@ -47,3 +47,7 @@ footer{
 .texto li{
     font-size: 35px;
 }
+
+.imagem img{
+    flex-direction: column;
+}
