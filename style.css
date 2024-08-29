@@ -31,6 +31,11 @@ footer{
     height: 3em;
 }
 
+.texto{
+    margin-top: 45px;
+    margin-bottom: 45pxa;
+}
+
 .texto h2{
     font-size: 40px;
 }
