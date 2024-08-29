@@ -1,4 +1,10 @@
+
+body{
+    background-color: black;
+}
+
 .titulo{
     text-align: center;
     margin-top: 25px;
+    color:pink;
 }
