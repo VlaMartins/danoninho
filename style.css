@@ -9,6 +9,10 @@ header{
     background-color: pink;
 }
 
+main{
+    color: white;
+}
+
 .titulo{
     text-align: center;
     font-family: "Nerko One", cursive;
