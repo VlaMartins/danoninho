@@ -4,10 +4,13 @@ body{
     background-color: black;
 }
 
-.titulo{
-    text-align: center;
+header{
     margin-top: 25px;
     background-color: pink;
+}
+
+.titulo{
+    text-align: center;
     font-family: "Nerko One", cursive;
     font-weight: 400;
     font-style: normal;
