@@ -30,3 +30,15 @@ footer{
     text-align: center;
     height: 3em;
 }
+
+.texto h2{
+    font-size: 40px;
+}
+
+.texto p{
+    font-size: 35px;
+}
+
+.texto li{
+    font-size: 35px;
+}
