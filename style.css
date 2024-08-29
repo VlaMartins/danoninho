@@ -48,6 +48,6 @@ footer{
     font-size: 35px;
 }
 
-.imagem img{
+.imagem{
     flex-direction: column;
 }
