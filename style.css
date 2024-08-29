@@ -16,3 +16,13 @@ header{
     font-size: 75px;
     font-style: normal;
 }
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ff66b2;
+    text-align: center;
+    height: 3em;
+}
