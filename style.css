@@ -51,3 +51,7 @@ footer{
 .imagem{
     flex-direction: column;
 }
+
+ul {
+    list-style-type: square;
+}
